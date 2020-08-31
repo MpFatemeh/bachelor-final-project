@@ -1,8 +1,8 @@
-# bachelor-final-project
+# Association rules mining
 data mining using apriori
 
 
-using apriori algorithm to find repeated patterns and association rules in students' unit selection.
+using apriori algorithm to find repeated patterns and association rules in students selected courses for each semester.
 
 
 ```sh
