@@ -1,4 +1,4 @@
-# Association rules mining
+# association rules mining
 data mining using apriori
 
 
